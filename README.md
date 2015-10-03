@@ -24,7 +24,7 @@ triangle(2); // [ [ 1 ], [ 1, 1 ], [ 1, 2, 1 ] ]
 
 ### triangle(rows)
 
-Returns a matrix (`array` of `array`s) containing the rows in order from top to bottom.
+Returns a matrix (`array` of `array`s) containing the values of the rows in order from top to bottom.
 
 #### rows
 
