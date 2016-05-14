@@ -2,7 +2,10 @@
 
 > Get a triangular array of the binomial coefficients given a certain number of rows.
 
-[![Build Status](https://travis-ci.org/alebelcor/pascals-triangle.svg)](https://travis-ci.org/alebelcor/pascals-triangle)
+[![npm version](https://img.shields.io/npm/v/pascals-triangle.svg)](https://npmjs.org/package/pascals-triangle)
+![Node.js version](https://img.shields.io/node/v/pascals-triangle.svg)
+[![Build status](https://img.shields.io/travis/alebelcor/pascals-triangle.svg)](https://travis-ci.org/alebelcor/pascals-triangle)
+[![Test coverage](https://img.shields.io/coveralls/alebelcor/pascals-triangle.svg)](https://coveralls.io/github/alebelcor/pascals-triangle)
 
 ## Install
 
